@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Sidiq Ahmed Hersi]
+# Hi there! 👋 I'm Sidiq Ahmed Hersi
 
 Passionate front-end developer with a knack for creating responsive and user-friendly web applications. I love turning creative ideas into high-quality, interactive user experiences.
 
