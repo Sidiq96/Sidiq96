@@ -5,8 +5,8 @@ Passionate front-end developer with a knack for creating responsive and user-fri
 ## 🚀 Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Web Technologies:** React, Angular, Vue.js
-- **Styling:** Sass, Less, Bootstrap
+- **Web Technologies:** React, Angular, Node.js, JQuery
+- **Styling:** Bootstrap, JQuery UI
 - **Version Control:** Git, GitHub
 
 ## 💼 Projects
@@ -25,12 +25,12 @@ The challenge is to build a weather dashboard that will run in the browser and f
 
 ## 🌱 Currently Learning
 
-Continuously sharpening my skills in [specific technology or framework]. Excited to explore [another area of interest].
+Continuously sharpening my skills in HTML, CSS and JavaScript. Excited to explore other areas.
 
 ## 📫 Let's Connect
 
 - LinkedIn: [My LinkedIn Profile](https://uk.linkedin.com/in/sidiq-hersi-471437115)
-- Portfolio: [Your Portfolio Website](Link to Portfolio)
+- Portfolio: [My Portfolio Website](https://sidiq96.github.io/Sidiq_Portfolio/)
 
 ## 👀 Looking for Opportunities
 
