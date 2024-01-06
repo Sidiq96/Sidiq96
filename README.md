@@ -6,7 +6,7 @@ Passionate front-end developer with a knack for creating responsive and user-fri
 
 - **Languages:** HTML, CSS, JavaScript
 - **Web Technologies:** React, Angular, Node.js, JQuery
-- **Styling:** Bootstrap, JQuery UI
+- **Styling:** Bootstrap, JQuery UI, TailwindCSS
 - **Version Control:** Git, GitHub
 
 ## 💼 Projects
