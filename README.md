@@ -2,12 +2,8 @@
 
 Passionate front-end developer with a knack for creating responsive and user-friendly web applications. I love turning creative ideas into high-quality, interactive user experiences.
 
-## 🚀 Skills
-
-- **Languages:** HTML, CSS, JavaScript
-- **Web Technologies:** React, Angular, Node.js, JQuery
-- **Styling:** Bootstrap, JQuery UI, TailwindCSS
-- **Version Control:** Git, GitHub
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 💼 Projects
 
@@ -27,18 +23,18 @@ The challenge is to build a weather dashboard that will run in the browser and f
 
 Continuously sharpening my skills in HTML, CSS and JavaScript. Excited to explore other areas.
 
-## 📫 Let's Connect
-
-- LinkedIn: [My LinkedIn Profile](https://uk.linkedin.com/in/sidiq-hersi-471437115)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sidiq-hersi-471437115) 
 - Portfolio: [My Portfolio Website](https://sidiq96.github.io/Sidiq_Portfolio/)
 
 ## 👀 Looking for Opportunities
 
 Open to exciting front-end development opportunities. Feel free to reach out if you have an interesting project or job opportunity!
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](Your GitHub Stats Image URL)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sidiq96&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sidiq96&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidiq96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
