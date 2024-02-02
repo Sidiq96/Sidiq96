@@ -24,7 +24,7 @@ The challenge is to build a weather dashboard that will run in the browser and f
 Continuously sharpening my skills in HTML, CSS and JavaScript. Excited to explore other areas.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sidiq-hersi-471437115) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sidiq-hersi-471437115) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hersisidiq@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sidiq96.github.io/Sidiq_Portfolio/)
 
